@@ -23,7 +23,7 @@ We created a base model and iterated on the model to improve it's accuracy.
     - Used activation function *"tanh"*
     - 2 Hidden Layers
     - 8 neurons (Layer 1), 5 neurons (Layer 2)
-    - ![attempt2](../attempt2.png)
+    - ![attempt2](attempt2.png)
 - **Attempt 3**
     - Increased neurons and hidden layers
     - 3 Hidden Layers
