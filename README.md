@@ -24,12 +24,14 @@ We created a base model and iterated on the model to improve it's accuracy.
     - Used activation function *"tanh"*
     - 2 Hidden Layers
     - 8 neurons (Layer 1), 5 neurons (Layer 2)
-    - ![attempt2](attempt2.PNG)
+    
+    ![attempt2](attempt2.PNG)
 - **Attempt 3**
     - Increased neurons and hidden layers
     - 3 Hidden Layers
     - 100 neurons (Layer 1), 50 neurons (Layer 2), 25 neurons (Layer 3)
-    - ![attempt3](attempt3.PNG)
+    
+    ![attempt3](attempt3.PNG)
 
 ### Summary
 After the three attempts, I was unable to achieve the targeted accuracy of 75%. The highest attempt was achieved by adding more neurons and hidden layers (72.87%).
