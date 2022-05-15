@@ -18,7 +18,7 @@ We created a base model and iterated on the model to improve it's accuracy.
     - Removed SPECIAL_CONSIDERATIONS as I felt it did not have any meaning impact on the data
     - 2 Hidden Layers
     - 8 neurons (Layer 1), 5 neurons (Layer 2)
-    -![attempt1](attempt1.png)
+    - ![attempt1](attempt1.png)
 - **Attempt 2**
     - Used activation function *"tanh"*
     - 2 Hidden Layers
